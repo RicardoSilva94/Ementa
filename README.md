@@ -1,27 +1,5 @@
-# React + TypeScript + Vite
+Desenvolvimento do Frontend da aplicação Ementa utilizando a biblioteca React e Typescript. 
+Link para aceder ao Backend: https://github.com/RicardoSilva94/Backend_API_Ementa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![ementa](https://github.com/RicardoSilva94/Frontend_Ementa/assets/135598161/bfcf574e-8aa5-48e0-a829-7882769d0170)
+![ementa_add](https://github.com/RicardoSilva94/Frontend_Ementa/assets/135598161/144e69ae-a245-4b30-ac07-8b4be23ea414)
